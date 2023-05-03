@@ -8,7 +8,7 @@
 
 --- To run "python manage.py runserver"
 
---- The Api created is
+--- The Created API is
 
 ![image](https://user-images.githubusercontent.com/94432813/235865611-6cdc8b3f-0eeb-44ba-a44d-959c921f4f96.png)
 
